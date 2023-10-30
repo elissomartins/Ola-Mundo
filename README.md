@@ -1,5 +1,5 @@
 # Olá, Mundo!
- Primeiro repositório do curso de GitHib
+ Primeiro repositório do curso de GitHub
 
  Repositório criado dia 03/05.
  
